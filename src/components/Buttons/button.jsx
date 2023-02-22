@@ -74,6 +74,7 @@ Button.ReactPropTypes = {
     target: PropTypes.string,
     className: PropTypes.string,
     isDisabled: PropTypes.bool,
+    isExternal: PropTypes.bool,
     isLoading: PropTypes.bool,
     isEksternal: PropTypes.bool,
     isSmall: PropTypes.bool,
